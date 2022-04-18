@@ -1,0 +1,29 @@
+body
+{
+  color: rgb(136, 77, 77); font-family: 'Fuzzy Bubbles', cursive;
+  font-family: 'Shalimar', cursive;
+  background: #bad8fa;
+  font-size: 30px;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_name ,#result_name2  
+{
+  color: rgb(141, 46, 141);
+}
+.gesture_name
+{
+  font-size: 40px;
+}
+.gesture
+{
+  font-size:48px;
+}
